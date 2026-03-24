@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">A passionate full stack developer from Oslo, Norway</h3>
+<h1 align="center">Hi, I'm Hari</h1>
+<h3 align="center">Full Stack Developer building real-world applications (CMS, authentication, payments, admin dashboards)</h3>
 
-- 🔭 I’m currently working on [KNS Entertainment](https://www.knsentertainment.eu/)
+- 🔭 I’m currently working on OnlineNews website and also updating [KNS Entertainment](https://www.knsentertainment.eu/)
 
-- 🌱 I’m currently learning **AI/ML in web apps**
+- 🌱 I’m learning more about integrating **AI/ML in web apps**
 
-- 👨‍💻 All of my projects are available at [https://harisanjel.com.np/](https://harisanjel.com.np/)
+- 👨‍💻 My portfolio website: [https://harisanjel.com.np/](https://harisanjel.com.np/)
 
-- 💬 Ask me about **React**
+- 📫 Reach me at **harisanjel@gmail.com**
 
-- 📫 How to reach me **harisanjel@gmail.com**
-
-- 📄 Know about my experiences [https://harisanjel.com.np/assets/CV_Hari%20Prasad%20Sanjel.pdf](https://harisanjel.com.np/assets/CV_Hari%20Prasad%20Sanjel.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
